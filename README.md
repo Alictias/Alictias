@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on **full stack projects**
 - 🌱 I’m learning **CSS, HTML, JavaScript**
 - 💡 I love automation, UI/UX, and smart solutions
-- 📫 How to reach me: <a href="mailto:alice.tedemi@gmail.com">alice.tedemi@gmail.com</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/alice-t-710290207">linkedin Alice</a>
 - 👨‍💻 All my projects are here: [GitHub Repos](https://github.com/Alictias?tab=repositories)
 
 ---
