@@ -1,5 +1,5 @@
 ## Oh, Hi :D
-<h1 align="center">I'm Alice 👩‍💻</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=5000&color=F7004DD4&center=true&width=435&lines=I'm+Alice+%3AD+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+" alt="Typing SVG" /></a>
 <h3 align="center">Working and studying to be full stack.</h3>
 
 - 🌱 I’m currently learning **CSS, HTML and JavaScript**
