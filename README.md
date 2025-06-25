@@ -1,6 +1,5 @@
 ## Oh, Hi :D
-<h1 align="center">Hi 👋, I'm Alice</h1>
-<h3 align="center">Not a dev yet but trying to be.</h3>
+<h1 align="center">I'm Alice 👩‍💻</h1>
 
 - 🌱 I’m currently learning **CSS, HTML and JavaScript**
 
