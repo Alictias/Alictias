@@ -5,8 +5,7 @@
   </a>
 </p>
 <p align="center">
-  <b>🌱 Full Stack Student & Developer</b><br>
-  🚀 Always learning and building cool stuff!<br>
+  <b>🌱 Full Stack & Developer student🚀/b><br>
 </p>
 
 ---
@@ -14,8 +13,8 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **full stack projects**
-- 🌱 I’m learning **CSS, HTML, JavaScript**
-- 💡 I love automation, UI/UX, and smart solutions
+- 🌱 I’m learning **CSS, HTML, JavaScript, Python**
+- 💡 I love automation, UI/UX and design.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/alice-t-710290207">linkedin Alice</a>
 - 👨‍💻 All my projects are here: [GitHub Repos](https://github.com/Alictias?tab=repositories)
 
