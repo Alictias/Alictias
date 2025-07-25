@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">
-  <b>🌱 Full Stack & Developer student🚀/b><br>
+  <b>🌱 Full Stack & Developer student🚀<br>
 </p>
 
 ---
